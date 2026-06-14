@@ -1,6 +1,6 @@
 import { AuthProvider } from "@/context/AuthContext";
 import { Toaster } from "react-hot-toast";
-import "./globals.css";
+import "../styles/globals.css";
 
 export const metadata = {
   title: "Revenio - Event Management",
